@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0125-valid-palindrome) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
