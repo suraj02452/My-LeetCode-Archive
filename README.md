@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0521-longest-uncommon-subsequence-i) |
 ## String Matching
 |  |
 | ------- |
