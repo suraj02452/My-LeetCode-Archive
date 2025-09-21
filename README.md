@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0551-student-attendance-record-i) |
 | [0857-positions-of-large-groups](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0857-positions-of-large-groups) |
+| [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0874-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -78,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0005-longest-palindromic-substring) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
