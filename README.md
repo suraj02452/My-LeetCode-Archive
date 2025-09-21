@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0551-student-attendance-record-i) |
+| [0857-positions-of-large-groups](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0857-positions-of-large-groups) |
 ## String Matching
 |  |
 | ------- |
