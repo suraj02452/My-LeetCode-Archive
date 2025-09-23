@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-students-and-examinations](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1415-students-and-examinations) |
 | [1664-find-users-with-valid-e-mails](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1670-patients-with-a-condition) |
+| [1948-rearrange-products-table](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1948-rearrange-products-table) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Two Pointers
 |  |
