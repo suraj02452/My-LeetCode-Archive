@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0389-find-the-difference) |
 ## Array
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 ## Trie
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -103,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
