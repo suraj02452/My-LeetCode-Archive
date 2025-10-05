@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0125-valid-palindrome) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0011-container-with-most-water) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
