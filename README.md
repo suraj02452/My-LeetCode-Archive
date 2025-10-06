@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0008-string-to-integer-atoi) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0242-valid-anagram) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0022-generate-parentheses) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
