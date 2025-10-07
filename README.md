@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0344-reverse-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0874-backspace-string-compare) |
 ## Binary Search
 |  |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
 ## Divide and Conquer
 |  |
 | ------- |
