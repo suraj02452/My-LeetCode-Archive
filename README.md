@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Divide and Conquer
 |  |
 | ------- |
