@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0645-set-mismatch) |
 ## Trie
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Divide and Conquer
 |  |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0023-merge-k-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
