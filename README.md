@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0176-second-highest-salary) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0626-exchange-seats) |
