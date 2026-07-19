@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-rearrange-products-table](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/2024-calculate-special-bonus) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/2127-employees-whose-manager-left-the-company) |
+| [3436-find-valid-emails](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3436-find-valid-emails) |
 ## Two Pointers
 |  |
 | ------- |
