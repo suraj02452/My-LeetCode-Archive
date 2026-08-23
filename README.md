@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0039-combination-sum) |
 ## Sliding Window
 |  |
@@ -232,4 +235,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
