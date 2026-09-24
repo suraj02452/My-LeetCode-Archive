@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0058-length-of-last-word) |
@@ -155,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0032-longest-valid-parentheses) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -249,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
