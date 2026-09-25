@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0344-reverse-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
@@ -160,11 +162,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0042-trapping-rain-water) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0032-longest-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
