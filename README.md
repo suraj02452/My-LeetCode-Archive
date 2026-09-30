@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
