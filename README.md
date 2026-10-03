@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Divide and Conquer
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0040-combination-sum-ii) |
+| [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0089-gray-code) |
 ## Sliding Window
 |  |
 | ------- |
