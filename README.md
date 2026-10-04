@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0242-valid-anagram) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0040-combination-sum-ii) |
 | [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0093-restore-ip-addresses) |
 ## Sliding Window
 |  |
 | ------- |
