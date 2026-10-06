@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0205-isomorphic-strings) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0073-set-matrix-zeroes) |
 ## Algorithm X
 |  |
 | ------- |
