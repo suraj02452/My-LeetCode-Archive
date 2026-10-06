@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
 | [0091-decode-ways](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0091-decode-ways) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0392-is-subsequence) |
 ## Stack
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
 ## Algorithm X
 |  |
 | ------- |
