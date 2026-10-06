@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Math
 |  |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0074-search-a-2d-matrix) |
 ## Algorithm X
 |  |
 | ------- |
