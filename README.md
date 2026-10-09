@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0074-search-a-2d-matrix) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0097-interleaving-string) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0392-is-subsequence) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0074-search-a-2d-matrix) |
 ## Algorithm X
