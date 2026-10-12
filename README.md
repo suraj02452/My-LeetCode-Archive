@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Math
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0089-gray-code) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0102-binary-tree-level-order-traversal) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
