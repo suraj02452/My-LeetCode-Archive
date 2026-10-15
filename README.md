@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0086-partition-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0344-reverse-string) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0025-reverse-nodes-in-k-group) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0086-partition-list) |
 ## Recursion
 |  |
 | ------- |
