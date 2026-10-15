@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0389-find-the-difference) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0069-sqrtx) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
