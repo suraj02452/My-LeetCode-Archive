@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0097-interleaving-string) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0204-count-primes) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0052-n-queens-ii) |
+| [0079-word-search](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0095-unique-binary-search-trees-ii) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -345,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0100-same-tree) |
 ## Breadth-First Search
