@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -424,4 +426,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
