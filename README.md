@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0067-add-binary) |
 | [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0645-set-mismatch) |
 ## Dynamic Programming
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
