@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0344-reverse-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0387-first-unique-character-in-a-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
 ## Queue
 |  |
 | ------- |
@@ -417,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0207-course-schedule) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
