@@ -74,9 +74,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
-| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
+| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
-| [0299-bulls-and-cows](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0299-bulls-and-cows) |
+| [0299-bulls-and-cows](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0387-first-unique-character-in-a-string) |
@@ -107,9 +107,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
-| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
+| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
-| [0299-bulls-and-cows](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0299-bulls-and-cows) |
+| [0299-bulls-and-cows](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0645-set-mismatch) |
@@ -170,17 +170,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0014-longest-common-prefix) |
-| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
+| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 ## Queue
 |  |
 | ------- |
-| [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0232-implement-queue-using-stacks) |
+| [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
-| [0299-bulls-and-cows](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0299-bulls-and-cows) |
+| [0299-bulls-and-cows](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
@@ -188,8 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0067-add-binary) |
 | [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0089-gray-code) |
-| [0190-reverse-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0190-reverse-bits) |
-| [0191-number-of-1-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0191-number-of-1-bits) |
+| [0190-reverse-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0645-set-mismatch) |
 ## Dynamic Programming
@@ -217,7 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0094-binary-tree-inorder-traversal) |
-| [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0232-implement-queue-using-stacks) |
+| [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -260,8 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
-| [0190-reverse-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0190-reverse-bits) |
-| [0191-number-of-1-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0191-number-of-1-bits) |
+| [0190-reverse-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -374,7 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0207-course-schedule) |
+| [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -382,7 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0207-course-schedule) |
+| [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -413,18 +413,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
-| [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0207-course-schedule) |
+| [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Topological Sort
 |  |
 | ------- |
-| [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0207-course-schedule) |
+| [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
-| [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0207-course-schedule) |
+| [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Design
 |  |
 | ------- |
-| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
-| [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0232-implement-queue-using-stacks) |
+| [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
