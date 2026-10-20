@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0264-ugly-number-ii) |
 | [0299-bulls-and-cows](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0299-bulls-and-cows) |
 | [0387-first-unique-character-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0389-find-the-difference) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0097-interleaving-string) |
+| [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0392-is-subsequence) |
 ## Stack
 |  |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
+| [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0264-ugly-number-ii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1523-count-odd-numbers-in-an-interval-range) |
 ## Divide and Conquer
 |  |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0264-ugly-number-ii) |
 ## Merge Sort
 |  |
 | ------- |
