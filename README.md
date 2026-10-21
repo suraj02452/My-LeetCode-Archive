@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0076-minimum-window-substring) |
+| [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Binary Tree
 |  |
@@ -435,4 +438,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0232-implement-queue-using-stacks) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
