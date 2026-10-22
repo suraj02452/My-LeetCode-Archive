@@ -169,7 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0119-pascals-triangle-ii) |
-| [0120-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0120-triangle) |
+| [0120-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0120-triangle) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
@@ -220,7 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0119-pascals-triangle-ii) |
-| [0120-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0120-triangle) |
+| [0120-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0120-triangle) |
 | [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0392-is-subsequence) |
 ## Stack
