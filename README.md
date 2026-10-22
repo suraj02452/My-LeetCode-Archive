@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
@@ -457,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0127-word-ladder) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
