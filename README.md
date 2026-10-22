@@ -171,7 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0121-best-time-to-buy-and-sell-stock) |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
@@ -224,7 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0121-best-time-to-buy-and-sell-stock) |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0392-is-subsequence) |
 ## Stack
@@ -310,7 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0055-jump-game) |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
 |  |
 | ------- |
