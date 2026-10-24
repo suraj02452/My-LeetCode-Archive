@@ -390,7 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
-| [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0112-path-sum) |
+| [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
@@ -401,7 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
-| [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0112-path-sum) |
+| [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Breadth-First Search
@@ -411,7 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0104-maximum-depth-of-binary-tree) |
-| [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0112-path-sum) |
+| [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
 | [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Binary Tree
@@ -428,7 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
-| [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0112-path-sum) |
+| [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
 ## Newton's Method
 |  |
