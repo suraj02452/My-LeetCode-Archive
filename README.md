@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0131-palindrome-partitioning) |
 | [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0392-is-subsequence) |
 ## Stack
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0131-palindrome-partitioning) |
 ## Sliding Window
 |  |
 | ------- |
