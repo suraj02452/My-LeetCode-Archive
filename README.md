@@ -128,7 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0018-4sum) |
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0056-merge-intervals) |
-| [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0164-maximum-gap) |
+| [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0389-find-the-difference) |
@@ -177,7 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0128-longest-consecutive-sequence) |
-| [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0164-maximum-gap) |
+| [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
@@ -489,13 +489,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
-| [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0164-maximum-gap) |
+| [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0164-maximum-gap) |
 ## Radix Sort
 |  |
 | ------- |
-| [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0164-maximum-gap) |
+| [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0164-maximum-gap) |
 ## Pigeonhole Principle
 |  |
 | ------- |
-| [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0164-maximum-gap) |
+| [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0164-maximum-gap) |
 <!---LeetCode Topics End-->
