@@ -326,7 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0095-unique-binary-search-trees-ii) |
-| [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0113-path-sum-ii) |
+| [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0113-path-sum-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -392,7 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0113-path-sum-ii) |
+| [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
@@ -404,7 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0113-path-sum-ii) |
+| [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Breadth-First Search
@@ -432,7 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
-| [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0113-path-sum-ii) |
+| [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
 ## Newton's Method
 |  |
