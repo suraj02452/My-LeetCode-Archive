@@ -235,7 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0094-binary-tree-inorder-traversal) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0874-backspace-string-compare) |
 ## Simulation
@@ -296,7 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0092-reverse-linked-list-ii) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -395,7 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0113-path-sum-ii) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
 ## Depth-First Search
 |  |
@@ -408,7 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0113-path-sum-ii) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
 | [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Breadth-First Search
@@ -437,7 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0113-path-sum-ii) |
-| [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
 ## Newton's Method
 |  |
