@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0143-reorder-list) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0345-reverse-vowels-of-a-string) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0143-reorder-list) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0874-backspace-string-compare) |
 ## Simulation
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0143-reorder-list) |
 ## Recursion
 |  |
 | ------- |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0143-reorder-list) |
 ## Greedy
 |  |
 | ------- |
