@@ -43,7 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0125-valid-palindrome) |
-| [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0141-linked-list-cycle) |
+| [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0345-reverse-vowels-of-a-string) |
@@ -113,7 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0138-copy-list-with-random-pointer) |
-| [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0141-linked-list-cycle) |
+| [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
@@ -312,7 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0138-copy-list-with-random-pointer) |
-| [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0141-linked-list-cycle) |
+| [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -512,5 +512,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
-| [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0141-linked-list-cycle) |
+| [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
