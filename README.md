@@ -178,7 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0134-gas-station) |
-| [0136-single-number](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0136-single-number) |
+| [0136-single-number](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0136-single-number) |
 | [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
@@ -206,7 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0067-add-binary) |
 | [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0089-gray-code) |
-| [0136-single-number](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0136-single-number) |
+| [0136-single-number](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0136-single-number) |
 | [0190-reverse-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0191-number-of-1-bits) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0389-find-the-difference) |
