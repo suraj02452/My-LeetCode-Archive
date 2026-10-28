@@ -132,7 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0018-4sum) |
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0056-merge-intervals) |
-| [0147-insertion-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0147-insertion-sort-list) |
+| [0147-insertion-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
@@ -318,7 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0143-reorder-list) |
-| [0147-insertion-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0147-insertion-sort-list) |
+| [0147-insertion-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0147-insertion-sort-list) |
 ## Recursion
 |  |
 | ------- |
