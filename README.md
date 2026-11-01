@@ -76,7 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0097-interleaving-string) |
-| [0115-distinct-subsequences](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0115-distinct-subsequences) |
+| [0115-distinct-subsequences](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0131-palindrome-partitioning) |
@@ -244,7 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0097-interleaving-string) |
-| [0115-distinct-subsequences](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0115-distinct-subsequences) |
+| [0115-distinct-subsequences](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0120-triangle) |
