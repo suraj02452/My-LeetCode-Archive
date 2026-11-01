@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0066-plus-one) |
