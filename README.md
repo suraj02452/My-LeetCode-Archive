@@ -40,7 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0042-trapping-rain-water) |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0125-valid-palindrome) |
@@ -183,7 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0079-word-search) |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
