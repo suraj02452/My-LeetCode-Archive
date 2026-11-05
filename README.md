@@ -249,7 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0064-minimum-path-sum) |
-| [0070-climbing-stairs](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0070-climbing-stairs) |
+| [0070-climbing-stairs](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0096-unique-binary-search-trees) |
@@ -310,7 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0066-plus-one) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0067-add-binary) |
 | [0069-sqrtx](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0069-sqrtx) |
-| [0070-climbing-stairs](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0070-climbing-stairs) |
+| [0070-climbing-stairs](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0149-max-points-on-a-line) |
@@ -578,7 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
-| [0070-climbing-stairs](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0070-climbing-stairs) |
+| [0070-climbing-stairs](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0139-word-break) |
 ## Brute-Force Search
 |  |
