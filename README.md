@@ -86,7 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0165-compare-version-numbers) |
-| [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0166-fraction-to-recurring-decimal) |
+| [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
@@ -127,7 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
 | [0149-max-points-on-a-line](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0149-max-points-on-a-line) |
-| [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0166-fraction-to-recurring-decimal) |
+| [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
@@ -321,7 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0150-evaluate-reverse-polish-notation) |
-| [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0166-fraction-to-recurring-decimal) |
+| [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0264-ugly-number-ii) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1523-count-odd-numbers-in-an-interval-range) |
