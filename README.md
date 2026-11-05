@@ -47,7 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0151-reverse-words-in-a-string) |
-| [0165-compare-version-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0165-compare-version-numbers) |
+| [0165-compare-version-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0345-reverse-vowels-of-a-string) |
@@ -85,7 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0151-reverse-words-in-a-string) |
-| [0165-compare-version-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0165-compare-version-numbers) |
+| [0165-compare-version-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
