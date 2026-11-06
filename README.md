@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0048-rotate-image) |
+| [0050-powx-n](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0066-plus-one) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0067-add-binary) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0143-reorder-list) |
 ## Greedy
