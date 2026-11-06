@@ -67,7 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0044-wildcard-matching) |
@@ -114,7 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0013-roman-to-integer) |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0041-first-missing-positive) |
@@ -397,7 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0003-longest-substring-without-repeating-characters) |
-| [0030-substring-with-concatenation-of-all-words](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0076-minimum-window-substring) |
 ## Heap (Priority Queue)
 |  |
