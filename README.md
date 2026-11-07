@@ -314,7 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0048-rotate-image) |
-| [0050-powx-n](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0050-powx-n) |
+| [0050-powx-n](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0066-plus-one) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0067-add-binary) |
@@ -337,7 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
-| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0191-number-of-1-bits) |
@@ -354,7 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0092-reverse-linked-list-ii) |
-| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0138-copy-list-with-random-pointer) |
@@ -370,7 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0044-wildcard-matching) |
-| [0050-powx-n](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0050-powx-n) |
+| [0050-powx-n](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0143-reorder-list) |
 ## Greedy
@@ -465,7 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
-| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0113-path-sum-ii) |
@@ -518,7 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
-| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0113-path-sum-ii) |
@@ -542,7 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
-| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0109-convert-sorted-list-to-binary-search-tree) |
 ## Graph Theory
 |  |
 | ------- |
