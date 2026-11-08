@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0055-jump-game) |
+| [0062-unique-paths](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0070-climbing-stairs) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0048-rotate-image) |
 | [0050-powx-n](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0066-plus-one) |
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0067-add-binary) |
 | [0069-sqrtx](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0069-sqrtx) |
@@ -607,4 +609,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
