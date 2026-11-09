@@ -202,7 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0128-longest-consecutive-sequence) |
-| [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0130-surrounded-regions) |
+| [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0134-gas-station) |
 | [0136-single-number](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0136-single-number) |
 | [0137-single-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0137-single-number-ii) |
@@ -436,7 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0079-word-search) |
-| [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0130-surrounded-regions) |
+| [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0130-surrounded-regions) |
 ## Algorithm X
 |  |
 | ------- |
@@ -494,7 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
-| [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0130-surrounded-regions) |
+| [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0130-surrounded-regions) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Breadth-First Search
@@ -508,7 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0116-populating-next-right-pointers-in-each-node) |
 | [0127-word-ladder](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0127-word-ladder) |
-| [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0130-surrounded-regions) |
+| [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Binary Tree
 |  |
@@ -576,7 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0128-longest-consecutive-sequence) |
-| [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0130-surrounded-regions) |
+| [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0130-surrounded-regions) |
 ## Bucket Sort
 |  |
 | ------- |
