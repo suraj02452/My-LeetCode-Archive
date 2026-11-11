@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0143-reorder-list) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0232-implement-queue-using-stacks) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0130-surrounded-regions) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0207-course-schedule) |
 ## Breadth-First Search
@@ -543,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0129-sum-root-to-leaf-numbers) |
+| [0144-binary-tree-preorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0145-binary-tree-postorder-traversal) |
 ## Newton's Method
 |  |
