@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0079-word-search) |
+| [0087-scramble-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0097-interleaving-string) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0070-climbing-stairs) |
+| [0087-scramble-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0096-unique-binary-search-trees) |
