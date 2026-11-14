@@ -342,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0264-ugly-number-ii) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1523-count-odd-numbers-in-an-interval-range) |
 ## Divide and Conquer
 |  |
