@@ -221,7 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0645-set-mismatch) |
-| [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3364-minimum-positive-sum-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -421,7 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0076-minimum-window-substring) |
-| [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3364-minimum-positive-sum-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -647,5 +647,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
-| [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3364-minimum-positive-sum-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
