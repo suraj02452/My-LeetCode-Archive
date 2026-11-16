@@ -158,7 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0645-set-mismatch) |
-| [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1833-maximum-ice-cream-bars) |
+| [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1840-maximum-building-height) |
 ## Array
 |  |
@@ -225,7 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0645-set-mismatch) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
-| [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1833-maximum-ice-cream-bars) |
+| [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1840-maximum-building-height) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
 ## Trie
@@ -408,7 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0134-gas-station) |
-| [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1833-maximum-ice-cream-bars) |
+| [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1833-maximum-ice-cream-bars) |
 ## Backtracking
 |  |
 | ------- |
@@ -664,5 +664,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
-| [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1833-maximum-ice-cream-bars) |
+| [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
