@@ -45,7 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0142-linked-list-cycle-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0165-compare-version-numbers) |
@@ -137,7 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0139-word-break) |
 | [0140-word-break-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0142-linked-list-cycle-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
@@ -393,7 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0142-linked-list-cycle-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0147-insertion-sort-list) |
 ## Recursion
@@ -653,7 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
-| [0142-linked-list-cycle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0142-linked-list-cycle-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0142-linked-list-cycle-ii) |
 ## Geometry
 |  |
 | ------- |
