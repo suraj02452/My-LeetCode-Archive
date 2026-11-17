@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0143-reorder-list) |
+| [0148-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0165-compare-version-numbers) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0191-number-of-1-bits) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0148-sort-list) |
 ## Recursion
 |  |
 | ------- |
@@ -454,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0148-sort-list) |
 ## Enumeration
 |  |
 | ------- |
