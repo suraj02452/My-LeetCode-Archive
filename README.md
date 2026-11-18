@@ -318,7 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0150-evaluate-reverse-polish-notation) |
-| [0155-min-stack](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0155-min-stack) |
+| [0155-min-stack](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0232-implement-queue-using-stacks) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0874-backspace-string-compare) |
 ## Simulation
@@ -634,7 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
-| [0155-min-stack](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0155-min-stack) |
+| [0155-min-stack](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0232-implement-queue-using-stacks) |
 ## Bidirectional Search
