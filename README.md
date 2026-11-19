@@ -308,7 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0392-is-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
-| [3699-number-of-zigzag-arrays-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
 | ------- |
@@ -699,7 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
-| [3699-number-of-zigzag-arrays-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3699-number-of-zigzag-arrays-i) |
 ## Counting Sort
 |  |
 | ------- |
