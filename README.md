@@ -168,7 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0645-set-mismatch) |
 | [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1840-maximum-building-height) |
-| [2567-minimum-score-by-changing-two-elements](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2567-minimum-score-by-changing-two-elements) |
 ## Array
 |  |
 | ------- |
@@ -238,7 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1840-maximum-building-height) |
-| [2567-minimum-score-by-changing-two-elements](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
 ## Trie
 |  |
@@ -429,7 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0134-gas-station) |
 | [0135-candy](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0135-candy) |
 | [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1833-maximum-ice-cream-bars) |
-| [2567-minimum-score-by-changing-two-elements](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2567-minimum-score-by-changing-two-elements) |
 ## Backtracking
 |  |
 | ------- |
