@@ -367,7 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0171-excel-sheet-column-number) |
-| [0172-factorial-trailing-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0172-factorial-trailing-zeroes) |
+| [0172-factorial-trailing-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0264-ugly-number-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1344-angle-between-hands-of-a-clock) |
