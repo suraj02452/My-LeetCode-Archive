@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0242-valid-anagram) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0166-fraction-to-recurring-decimal) |
+| [0171-excel-sheet-column-number](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/0171-excel-sheet-column-number) |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0264-ugly-number-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1344-angle-between-hands-of-a-clock) |
