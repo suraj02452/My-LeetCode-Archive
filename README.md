@@ -110,7 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0551-student-attendance-record-i) |
 | [0857-positions-of-large-groups](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0857-positions-of-large-groups) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0874-backspace-string-compare) |
-| [2124-check-if-all-as-appears-before-all-bs](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2243-calculate-digit-sum-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## String Matching
