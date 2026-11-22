@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0645-set-mismatch) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1840-maximum-building-height) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Trie
 |  |
 | ------- |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0191-number-of-1-bits) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0148-sort-list) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -706,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3699-number-of-zigzag-arrays-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -714,4 +719,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0124-binary-tree-maximum-path-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
