@@ -238,7 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0283-move-zeroes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0283-move-zeroes) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0645-set-mismatch) |
-| [1352-product-of-the-last-k-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1352-product-of-the-last-k-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1840-maximum-building-height) |
@@ -375,7 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0264-ugly-number-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1344-angle-between-hands-of-a-clock) |
-| [1352-product-of-the-last-k-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1352-product-of-the-last-k-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1352-product-of-the-last-k-numbers) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1840-maximum-building-height) |
@@ -653,7 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0232-implement-queue-using-stacks) |
-| [1352-product-of-the-last-k-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1352-product-of-the-last-k-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1352-product-of-the-last-k-numbers) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -710,7 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
-| [1352-product-of-the-last-k-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1352-product-of-the-last-k-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3699-number-of-zigzag-arrays-i) |
@@ -730,5 +730,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
-| [1352-product-of-the-last-k-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/1352-product-of-the-last-k-numbers) |
+| [1352-product-of-the-last-k-numbers](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
