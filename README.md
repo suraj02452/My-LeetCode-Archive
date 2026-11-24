@@ -244,7 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1840-maximum-building-height) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2567-minimum-score-by-changing-two-elements) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
-| [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3411-maximum-subarray-with-equal-products) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3739-count-subarrays-with-majority-element-ii) |
 ## Trie
 |  |
@@ -380,7 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1840-maximum-building-height) |
-| [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3411-maximum-subarray-with-equal-products) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
 |  |
@@ -470,7 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0076-minimum-window-substring) |
 | [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
-| [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3411-maximum-subarray-with-equal-products) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -486,12 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
-| [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0204-count-primes) |
-| [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
