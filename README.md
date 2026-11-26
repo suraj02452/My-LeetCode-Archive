@@ -339,7 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0067-add-binary) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0874-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2243-calculate-digit-sum-of-a-string) |
-| [3360-stone-removal-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3360-stone-removal-game) |
+| [3360-stone-removal-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -383,7 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1523-count-odd-numbers-in-an-interval-range) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [1840-maximum-building-height](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1840-maximum-building-height) |
-| [3360-stone-removal-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3360-stone-removal-game) |
+| [3360-stone-removal-game](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3411-maximum-subarray-with-equal-products) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3700-number-of-zigzag-arrays-ii) |
 ## Divide and Conquer
