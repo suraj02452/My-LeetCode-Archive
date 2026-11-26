@@ -154,7 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0645-set-mismatch) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3739-count-subarrays-with-majority-element-ii) |
-| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3934-smallest-unique-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -249,7 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3411-maximum-subarray-with-equal-products) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3739-count-subarrays-with-majority-element-ii) |
-| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3934-smallest-unique-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3934-smallest-unique-subarray) |
 ## Trie
 |  |
 | ------- |
@@ -354,7 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0154-find-minimum-in-rotated-sorted-array-ii) |
-| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3934-smallest-unique-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -747,13 +747,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
-| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3934-smallest-unique-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3934-smallest-unique-subarray) |
 ## Suffix Array
 |  |
 | ------- |
-| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3934-smallest-unique-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
-| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3934-smallest-unique-subarray) |
+| [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
