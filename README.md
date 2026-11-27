@@ -250,7 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3411-maximum-subarray-with-equal-products](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3411-maximum-subarray-with-equal-products) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3739-count-subarrays-with-majority-element-ii) |
 | [3934-smallest-unique-subarray](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3934-smallest-unique-subarray) |
-| [3946-maximum-number-of-items-from-sale-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3946-maximum-number-of-items-from-sale-i) |
 ## Trie
 |  |
 | ------- |
@@ -321,7 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3700-number-of-zigzag-arrays-ii) |
-| [3946-maximum-number-of-items-from-sale-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3946-maximum-number-of-items-from-sale-i) |
 ## Stack
 |  |
 | ------- |
@@ -454,7 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2567-minimum-score-by-changing-two-elements) |
-| [3946-maximum-number-of-items-from-sale-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3946-maximum-number-of-items-from-sale-i) |
 ## Backtracking
 |  |
 | ------- |
