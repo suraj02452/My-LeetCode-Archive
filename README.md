@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0874-backspace-string-compare) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0874-backspace-string-compare) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2243-calculate-digit-sum-of-a-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## String Matching
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/0392-is-subsequence) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/suraj02452/My-LeetCode-Archive/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3700-number-of-zigzag-arrays-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/suraj02452/My-LeetCode-Archive/tree/main/3946-maximum-number-of-items-from-sale-i) |
